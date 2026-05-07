@@ -10,7 +10,7 @@ Standard chatbots fail at productivity because they lack constraints. This appli
 ## 📸 Application Showcase
 *(Showing the AI parsing a chaotic input and generating a constrained execution plan)*
 
-![App Screenshot 1]([YOUR_SCREENSHOT_NAME_HERE.png](https://github.com/Arun660248/cognitive-load-balancer-ai/blob/main/Screenshot%202026-05-07%20192402.png),)
+![App Screenshot 1]([YOUR_SCREENSHOT_NAME_HERE.png](https://github.com/Arun660248/cognitive-load-balancer-ai/blob/main/Screenshot%202026-05-07%20192402.png),https://github.com/Arun660248/cognitive-load-balancer-ai/blob/main/Screenshot%202026-05-07%20192459.png)
 
 ## ⚙️ System Architecture & Prompt Engineering
 
